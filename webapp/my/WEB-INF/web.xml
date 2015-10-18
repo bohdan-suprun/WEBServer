@@ -1,0 +1,3 @@
+<web-app>
+<servlet urlpattern="/*" classname="test.ServletPrinter"/>
+</web-app>
